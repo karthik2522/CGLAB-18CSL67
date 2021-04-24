@@ -1,6 +1,6 @@
 # Requirements CGLAB
 
-installing pakages
+Installing packages
 -------------------
 
 sudo apt update
